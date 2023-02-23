@@ -1,4 +1,4 @@
 mysql: 
   url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
 lagou:
-  messsage: hello,lagou,200000
+  messsage: hello,lagou,300000
